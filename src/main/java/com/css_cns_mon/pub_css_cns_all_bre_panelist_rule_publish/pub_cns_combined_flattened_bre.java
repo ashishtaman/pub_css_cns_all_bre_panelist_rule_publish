@@ -1,4 +1,4 @@
-package com.css_cns_mon.pub_css_cns_all_bre_data_rule_publish;
+package com.css_cns_mon.pub_css_cns_all_bre_panelist_rule_publish;
 
 import java.math.*;
 import java.lang.Object.*;
