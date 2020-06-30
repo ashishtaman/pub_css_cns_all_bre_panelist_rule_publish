@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.css_cns_mon</groupId>
-  <artifactId>pub_css_cns_all_bre_data_rule_publish</artifactId>
+  <artifactId>pub_css_cns_all_bre_panelist_rule_publish</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>pub_css_cns_all_bre_data_rule_publish</name>
+  <name>pub_css_cns_all_bre_panelist_rule_publish</name>
   <description></description>
   <dependencies>
     <dependency>
